@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-084d-4fd7-b3a8-3d28dfc09b5c.gif" width="500" alt="coding gif"/>
 </div>
 
 <br/>
@@ -123,6 +123,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agaba916&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agaba916&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" width="45%"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Agaba916&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&dates=ffffff" width="60%"/>
@@ -136,10 +140,30 @@
 
 ## 📈 `< Contribution Graph />`
 
-<div align="center">
-  <img src="https://agaba916.github.io/Agaba916/cyber_nebula.svg" alt="Cyber Nebula"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agaba916&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&radius=8"/>
+</p>
+
+<p align="center">
+  <img src="https://agaba916.github.io/Agaba916/cyber_nebula.svg" alt="Cyber Nebula"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/Agaba916/Agaba916/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
 ---
+
+<div align="center">
+
 ## 🌐 `< Connect With Me />`
 
 <br/>
