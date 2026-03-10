@@ -137,9 +137,9 @@
 ## 📈 `< Contribution Graph />`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Agaba916/Agaba916/main/cyber_nebula.svg" alt="Cyber Nebula"/>
+  <img src="https://agaba916.github.io/Agaba916/cyber_nebula.svg" alt="Cyber Nebula"/>
 </div>
-
+---
 ## 🌐 `< Connect With Me />`
 
 <br/>
