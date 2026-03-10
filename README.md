@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450"/>
 </div>
 
 ---
@@ -59,11 +59,6 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Agaba916&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agaba916&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" width="45%"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Agaba916&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&dates=ffffff" width="55%"/>
 
