@@ -123,10 +123,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agaba916&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agaba916&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" width="45%"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Agaba916&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&dates=ffffff" width="60%"/>
