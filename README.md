@@ -136,26 +136,10 @@
 
 ## 📈 `< Contribution Graph />`
 
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agaba916&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&radius=8"/>
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="https://github.com/Agaba916/Agaba916/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github.com/Agaba916/Agaba916/blob/main/cyber_nebula.svg" alt="Cyber Nebula"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
 ---
-
 <div align="center">
 
 ## 🌐 `< Connect With Me />`
